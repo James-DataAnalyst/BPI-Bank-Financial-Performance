@@ -9,11 +9,11 @@ With this dashboard, stakeholders can track financial trends over a 10-year peri
 
 ## Excel Concepts Applied
 To build this dashboard, I used various Excel techniques and tools to ensure accuracy, automation, and interactivity:
-- Power Query ⚡ – For data cleaning, transformation, and structuring.
-- Pivot Tables & Pivot Charts 📊 – For dynamic data analysis and visualization.
-- Conditional Formatting 🎨 – To highlight trends, variances, and key financial metrics.
-- Data Validation & Dropdowns ✅ – For interactive filters (e.g., year selection).
-- Formulas & Functions 🧮
+- Power Query  – For data cleaning, transformation, and structuring.
+- Pivot Tables & Pivot Charts  – For dynamic data analysis and visualization.
+- Conditional Formatting  – To highlight trends, variances, and key financial metrics.
+- Data Validation & Dropdowns  – For interactive filters (e.g., year selection).
+- Formulas & Functions 
 - LOOKUP functions (VLOOKUP, INDEX-MATCH) – To fetch relevant financial data.
 - IF & Nested IFs – For logical comparisons and conditional reporting.
 - SUMIFS, AVERAGEIFS – For category-based financial aggregations.
